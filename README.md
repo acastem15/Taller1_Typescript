@@ -1,3 +1,4 @@
 # Taller1_Typescript
 Resultado de la página:
-![pagina](https://user-images.githubusercontent.com/85703757/197429969-b4b6f8ee-4830-47ad-94cd-eb341b9b7ea0.PNG)
+
+![pagina](https://user-images.githubusercontent.com/85703757/197430165-15fd80c3-1081-49f8-9f07-e55f20b0c332.PNG)
