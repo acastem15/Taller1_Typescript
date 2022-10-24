@@ -7,7 +7,9 @@
     font-size: 20px;
 
 }
-
+.container-fluid{
+    margin-top: 20px;
+}
 .icon{
     width: 50px;
 }
